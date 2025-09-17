@@ -1,4 +1,4 @@
-# React Organizational Chart
+# Era React Organizational Chart
 [![npm version](https://badge.fury.io/js/%40unicef%2Freact-org-chart.svg)](https://badge.fury.io/js/%40unicef%2Freact-org-chart)
 
 React component for displaying organizational charts.
